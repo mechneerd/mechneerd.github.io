@@ -142,3 +142,9 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+.icon{
+display:inline-flex;
+width:20px;
+height:20px;
+}
