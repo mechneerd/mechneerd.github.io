@@ -58,7 +58,8 @@ a:hover {
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 0;
+  background-color: #7A577A;
 }
 
 .bottom-container {
@@ -113,7 +114,7 @@ a:hover {
 }
 
 .project-img{
-  width: 10%;
+  width: 15%;
   float: left;
   margin-left: 30px;
 }
